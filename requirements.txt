@@ -1,0 +1,26 @@
+# Core
+streamlit
+python-dotenv
+
+# PDF Processing
+pymupdf
+
+# Image Processing
+pillow
+
+# Embeddings
+transformers
+torch
+sentence-transformers
+
+# Vector Store
+faiss-cpu
+
+# LangChain
+langchain
+langchain-core
+langchain-groq
+langchain-community
+
+# LLM
+groqlangchain
